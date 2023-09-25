@@ -1,0 +1,42 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 100;
+}
+
+.extended {
+    padding-left: 10px;
+}
+
+.social-link {
+    display: flex;
+    justify-content: space-around;
+}
+
+.highlight {
+    border: #bdbdbd 1px solid;
+    border-radius: 4px;
+    padding: 1px 3px;
+}
+
+.grid-example {
+    border: white 1.5px solid;
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+}
+
+.carbon-text {
+    font-weight: 200;
+}
+
+.stock-link {
+    margin-left: 25px !important;
+    font-size: smaller;
+}
+
+.carbon-ads {
+    position: sticky;
+    top: 0;
+}
